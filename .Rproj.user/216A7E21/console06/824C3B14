@@ -1,0 +1,316 @@
+]0;~/GitHub/bayesCorr[?1034hgrad09-146:bayesCorr lincoln$ [Kgrad09-146:bayesCorr lincoln$ RCMD [K[K[K[K CMR bui[K[K[K[K[KD build bayesCorr.Rproj [K[K[K[K[K[K[K[Kr
+ ERROR
+cannot change to directory ‘bayesCorr’
+]0;~/GitHub/bayesCorrgrad09-146:bayesCorr lincoln$ cd ..
+]0;~/GitHubgrad09-146:GitHub lincoln$ cd ..R CMD build bayesCorr
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorrcd ..[KR CMD build bayesCorr[Kcor.te[K[K[K[K[K[Kbayes[K[K[K[K[KR CMD build bayesCorr[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K INSTALL bayesCorr
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ open Name[K[K[KAN[KMESPACE
+The file /Users/lincoln/GitHub/NAMESPACE does not exist.
+]0;~/GitHubgrad09-146:GitHub lincoln$ open NAMESPACE[C/NAMESPACEbNAMESPACEaNAMESPACEyNAMESPACEeNAMESPACEsNAMESPACE[1PNAMESPACE[1PNAMESPACE[1PNAMESPACEyNAMESPACEeNAMESPACEsNAMESPACECNAMESPACEoNAMESPACErNAMESPACErNAMESPACE/NAMESPACE
+The file /bayesCorr/NAMESPACE does not exist.
+]0;~/GitHubgrad09-146:GitHub lincoln$ open /bayesCorr/NAMESPACE[C~/bayesCorr/NAMESPACEg/bayesCorr/NAMESPACEi/bayesCorr/NAMESPACEt/bayesCorr/NAMESPACE[1P/bayesCorr/NAMESPACE[1P/bayesCorr/NAMESPACE[1P/bayesCorr/NAMESPACE[C/bayesCorr/NAMESPACEg/bayesCorr/NAMESPACEi/bayesCorr/NAMESPACEt/bayesCorr/NAMESPACEH/bayesCorr/NAMESPACEU/bayesCorr/NAMESPACEn/bayesCorr/NAMESPACE[1P/bayesCorr/NAMESPACE[1P/bayesCorr/NAMESPACE[1P/bayesCorr/NAMESPACEh/bayesCorr/NAMESPACEu/bayesCorr/NAMESPACEb/bayesCorr/NAMESPACEq/bayesCorr/NAMESPACE[1P/bayesCorr/NAMESPACE[C/bayesCorr/NAMESPACE[1PbayesCorr/NAMESPACE
+]0;~/GitHubgrad09-146:GitHub lincoln$ open ~/github/bayesCorr/NAMESPACE[8P/bayesCorr/NAMESPACE[11PNAMESPACER CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorropen ~/github/bayesCorr/NAMESPACE[8P/bayesCorr/NAMESPACE[11PNAMESPACER CMD INSTALL bayesCorr
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[Copen ~/github/bayesCorr/NAMESPACE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12PR CMD build bayesCorr
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+Error in asChar(e[-1L]) : 
+  empty name in directive 'exportClasses' in 'NAMESPACE' file
+ERROR: lazy loading failed for package ‘bayesCorr’
+* removing ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library/bayesCorr’
+* restoring previous ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library/bayesCorr’
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+Error in asChar(e[-1L]) : 
+  empty name in directive 'exportMethods' in 'NAMESPACE' file
+ERROR: lazy loading failed for package ‘bayesCorr’
+* removing ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library/bayesCorr’
+* restoring previous ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library/bayesCorr’
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD INSTALL bayesCorr[2Pbuild[C[C[C[C[C[C[C[C[C[C
+* checking for file ‘bayesCorr/DESCRIPTION’ ... OK
+* preparing ‘bayesCorr’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘bayesCorr_0.1.0.tar.gz’
+
+]0;~/GitHubgrad09-146:GitHub lincoln$ R CMD build bayesCorr[2@INSTALL[C[C[C[C[C[C[C[C[C[C
+* installing to library ‘/Library/Frameworks/R.framework/Versions/3.5/Resources/library’
+* installing *source* package ‘bayesCorr’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (bayesCorr)
+]0;~/GitHubgrad09-146:GitHub lincoln$ 

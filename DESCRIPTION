@@ -1,0 +1,15 @@
+Package: bayesCorr
+Type: Package
+Title: MCMC Estimation Of Correlations
+Version: 0.1.0
+Author: Lincoln Colling
+Maintainer: Lincoln Colling <lincoln@colling.net.nz>
+Description: This package just does very simple estimation of correlations using jags.
+    To do this, it just estimates the parameters of a multivariate normal distribution.
+	The object produced is pretty interchangeable with the htest object produced 
+	by stats::cor.test
+License: Copyleft
+Encoding: UTF-8
+LazyData: true
+Requires: rjags, BEST, methods
+RoxygenNote: 6.0.1

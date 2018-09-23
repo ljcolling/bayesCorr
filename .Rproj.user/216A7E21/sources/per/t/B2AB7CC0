@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536332234451.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1712048125",
+    "id" : "B2AB7CC0",
+    "lastKnownWriteTime" : 1536332842,
+    "last_content_update" : 1536332842,
+    "path" : "~/GitHub/bayesCorr/man/cor.test.Rd",
+    "project_path" : "man/cor.test.Rd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
