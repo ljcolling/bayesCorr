@@ -2,3 +2,4 @@
 
 export(cor.test)
 export(posterior)
+exportMethods("$")

@@ -12,4 +12,7 @@ License: Copyleft
 Encoding: UTF-8
 LazyData: true
 Requires: rjags, BEST, methods
-RoxygenNote: 6.0.1
+RoxygenNote: 7.2.3
+Imports: 
+    HDInterval,
+    rjags

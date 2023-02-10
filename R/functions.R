@@ -42,6 +42,7 @@ setMethod("posterior",
 
 
 
+#' @export
 setMethod("$",
           "cor.mcmc",
           function(x,name){
