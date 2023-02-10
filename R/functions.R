@@ -52,10 +52,15 @@ setMethod("$",
               return(returnvalue)}
 
             if(name == "conf.int"){
-              returnvalue =unname(c(x@hdi.l,x@hdi.l))
+              returnvalue =unname(c(x@hdi.l,x@hdi.u))
               returnvalue = `attributes<-`(returnvalue,list("conf.level" = .95))
               return(returnvalue)
             }
+        
+            if(name == "posterior"){
+              return(x@posterior.dist)  
+            }
+
 
             if(name == "data.name"){
               return(paste(x@x.name,"and",x@y.name))
